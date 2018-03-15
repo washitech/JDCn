@@ -69,19 +69,6 @@ npm run build
 gulp build-test #This make the front-end files in public dir.
 ```
 
-## Installation on docker.
-
-[Please install Docker firstly](https://store.docker.com/search?offering=community&type=edition)
-
-```
-# pull jdcn code docker image
-docker pull jdcnplatform/jdcn:v1.3.0
-# run docker and jdcn
-docker run -i -t --name jdcn1.3.0 -p 4096:4096 jdcnplatform/jdcn:v1.3.0 /bin/bash
-root@e149b6732a48:/# cd /data/jdcn && ./jdcnd start
-JDCn server started as daemon ...
-```
-
 ## Run 
 
 ```
