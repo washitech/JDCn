@@ -1,7 +1,7 @@
-[![Build Status](https://travis-ci.org/JDCnPlatform/jdcn.svg?branch=master)](https://travis-ci.org/JDCnPlatform/jdcn)
-[![Author](https://img.shields.io/badge/author-@JDCnPlatform-blue.svg?style=flat)](http://github.com/JDCnPlatform) 
+[![Build Status](https://travis-ci.org/WashiTech/jdcn.svg?branch=master)](https://travis-ci.org/WashiTech/jdcn)
+[![Author](https://img.shields.io/badge/author-@WashiTech-blue.svg?style=flat)](http://github.com/WashiTech) 
 [![License](https://img.shields.io/badge/license-MIT-yellow.svg?style=flat)](http://jdcnplatform.mit-license.org)
-[![Platform](https://img.shields.io/badge/platform-Linux-green.svg?style=flat)](https://github.com/JDCnPlatform/jdcn)
+[![Platform](https://img.shields.io/badge/platform-Linux-green.svg?style=flat)](https://github.com/WashiTech/jdcn)
 - - -
 
 # JDCn
@@ -46,7 +46,7 @@ nvm install v8
 node --version
 
 # git clone sourece code
-git clone https://github.com/JDCnPlatform/jdcn && cd jdcn && chmod u+x jdcnd
+git clone https://github.com/WashiTech/jdcn && cd jdcn && chmod u+x jdcnd
 
 # Install node packages
 npm install
@@ -130,10 +130,10 @@ node app.js --help
 
 ## Releated projects
 
-- [jdcn-docs](https://github.com/JDCnPlatform/jdcn/tree/master/docs)
-- [jdcn-cli](https://github.com/JDCnPlatform/jdcn-cli)
-- [jdcn-js](https://github.com/JDCnPlatform/jdcn-js)
-- [jdcn-sandbox](https://github.com/JDCnPlatform/jdcn-sandbox-dist)
+- [jdcn-docs](https://github.com/WashiTech/jdcn/tree/master/docs)
+- [jdcn-cli](https://github.com/WashiTech/jdcn-cli)
+- [jdcn-js](https://github.com/WashiTech/jdcn-js)
+- [jdcn-sandbox](https://github.com/WashiTech/jdcn-sandbox-dist)
 - [jdcn-explorer] website: [explorer.jdcn.io/](https://explorer.jdcn.io/)
 
 ## License
