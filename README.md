@@ -11,8 +11,8 @@ JDCn system is a decentralized application platform, which is designed to lower 
 More infomation please visit
 
 
-+ [official website](https://www.jdcn.io)
-+ online wallet: [wallet.jdcn.io](https://wallet.jdcn.io/), [wallet.jdcn.cn](https://wallet.jdcn.cn/)
++ [official website](https://jdcn.io)
++ online wallet: [wallet.jdcn.io](https://wallet.jdcn.io/), [wallet.jdcn.cn](https://wallet.jdchain.cc/), [wallet.jdchain.net.cn](https://wallet.jdchain.net.cn/)
 
 ## System Dependency
 
